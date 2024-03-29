@@ -3,6 +3,8 @@
 - 🌱 I’m currently at UVU studying a Bachelors in Computer Science, with a Concentration in Full Stack Web Development.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me bmw132000@gmail.com
+- Linkedin: https://www.linkedin.com/in/brandon-woody-woodruff/
+- Github: https://github.com/BrandonWoodruff
 
 <!---
 BrandonWoodruff/BrandonWoodruff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
