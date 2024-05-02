@@ -5,7 +5,7 @@
 - 📫 How to reach me brandonwoodywoodruff@gmail.com
 - Linkedin: https://www.linkedin.com/in/brandon-woody-woodruff/
 - Github: https://github.com/BrandonWoodruff
-- Website: https://brandonwoodruff.netlify.com/
+- Website: https://brandonwoodruff.dev/
 
 <!---
 BrandonWoodruff/BrandonWoodruff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
